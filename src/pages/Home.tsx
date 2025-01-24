@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <h1>Home Page</h1>
-      <p>Welcome to the Atlas Frontend Base template.</p>
+      <p>Welcome to Robert's Atlas Frontend Base template.</p>
     </div>
   )
 }
